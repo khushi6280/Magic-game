@@ -1,0 +1,29 @@
+/* *{
+    background-color: lightcoral;
+    margin: 0%;
+    padding: 0%;
+} */
+
+.nav {
+    background-color: yellow;
+    list-style-type: none;
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+     display: flex;
+    justify-content: center;  
+  
+}
+
+.nav li {
+display: inline-block;
+font-size: 50px;
+height: 50%;
+width: 50%;
+padding: 20px;
+
+
+
+
+}
+
